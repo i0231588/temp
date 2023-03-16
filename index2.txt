@@ -2,6 +2,8 @@
 
 
 
-hotfix branch
+
 git
 git diff
+hotfix branch
+hotfix branch -d
