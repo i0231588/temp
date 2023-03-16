@@ -1,0 +1,38 @@
+[Done]
+0420_223816.0115=(S)_DEBUG: Entering UpdatePage.Thread_UpdateInit()//OK
+0420_223816.0135=(S)_DEBUG: Process UpdatePage.Thread_UpdateInit() IsFirstExecute = false//OK
+0420_223816.0135_0=(S)_DEBUG: Entering UpdatePage.RunTypeInit()//OK
+0420_223816.0135_1=(S)_Window_Loaded(): abort: False abnormalStop: False  rollbackstop : False download_background : False //OK
+0420_223816.0135_2=(S)_DEBUG: Process UpdatePage.RunTypeInit() normal//OK
+0420_223816.0135_3=(S)_DEBUG: Leaving UpdatePage.RunTypeInit()//OK
+0420_223816.0135_4=(S)_DEBUG: Process UpdatePage.Thread_UpdateInit() m_runType = normal//OK
+0420_223816.0294=(S)_DEBUG: Entering UpdatePage.IsLate()//OK
+0420_223816.0670=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R10, deltaLocal == 0 : 
+0420_223816.3320=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R10, project == R10, delta == 0, auth_response == 1, errCode == 0 : 
+0420_223816.3320_0=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is latest : 
+0420_223816.3320_1=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R13, deltaLocal == 0 : 
+0420_223816.6185=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R13, project == R13, delta == 0, auth_response == 1, errCode == 0 : 
+0420_223816.6225=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is latest : 
+0420_223816.6246=(S)_DEBUG: Process UpdatePage.IsLate()//Success_No_Update
+0420_223816.6270=(S)_DEBUG: Leaving UpdatePage.IsLate()//OK
+0420_223816.6295=(S)_DEBUG: Leaving UpdatePage.Thread_UpdateInit()//OK
+0420_223817.7710=(S)_DEBUG: Entering UpdatePage.Thread_UpdateInit()//OK
+0420_223817.7742=(S)_DEBUG: Process UpdatePage.Thread_UpdateInit() IsFirstExecute = false//OK
+0420_223817.7761=(S)_DEBUG: Entering UpdatePage.RunTypeInit()//OK
+0420_223817.7761_0=(S)_Window_Loaded(): abort: False abnormalStop: False  rollbackstop : False download_background : False //OK
+0420_223817.7761_1=(S)_DEBUG: Process UpdatePage.RunTypeInit() normal//OK
+0420_223817.7761_2=(S)_DEBUG: Leaving UpdatePage.RunTypeInit()//OK
+0420_223817.7761_3=(S)_DEBUG: Process UpdatePage.Thread_UpdateInit() m_runType = normal//OK
+0420_223817.7761_4=(S)_DEBUG: Entering UpdatePage.IsLate()//OK
+0420_223817.8244=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, projectLocal == R10, deltaLocal == 0 : 
+0420_223818.1242=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HncUtils_2020/R10, project == R10, delta == 0, auth_response == 1, errCode == 0 : 
+0420_223818.1247=DEBUG: CoreCommon.IsLatestProduct(). product == HncUtils_2020, product is latest : 
+0420_223818.1335=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, projectLocal == R13, deltaLocal == 0 : 
+0420_223818.4091=MakeDataRequestURL_Key_Version_Auth cdnPath == http://cdn.hancom.com/update/HOffice_2020/R13, project == R13, delta == 0, auth_response == 1, errCode == 0 : 
+0420_223818.4091_0=DEBUG: CoreCommon.IsLatestProduct(). product == HOffice_2020, product is latest : 
+0420_223818.4091_1=(S)_DEBUG: Process UpdatePage.IsLate()//Success_No_Update
+0420_223818.4091_2=(S)_DEBUG: Leaving UpdatePage.IsLate()//OK
+0420_223818.4286=(S)_DEBUG: Leaving UpdatePage.Thread_UpdateInit()//OK
+[LastLog]
+Action=Done
+Key=0420_223818.4286
